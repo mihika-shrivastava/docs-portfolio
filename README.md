@@ -13,7 +13,7 @@ I’m passionate about making complex systems understandable — through tutoria
 
 | Title | Description |
 |--------|-------------|
-| [Building an API Integration with Python and Postman: A Step-by-Step Guide](./api-integration-python-postman.md) | Step-by-step guide for integrating APIs with Python and Postman |
+| *in progress* [Building an API Integration with Python and Postman: A Step-by-Step Guide](./api-integration-python-postman.md) | Step-by-step guide for integrating APIs with Python and Postman |
 | [Why Great Documentation Is Just Great Storytelling](./documentation-storytelling.md) | Discusses parallels between narrative clarity and technical documentation. |
 
 Other things I have written in the past:
