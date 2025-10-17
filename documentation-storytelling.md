@@ -66,18 +66,12 @@ The parallels between storytelling and documentation run deeper than a metaphor.
 
 
 
-| Stortelling principle | Documentation Parallel | What does that mean in docuemntation?|
-
+| Stortelling principle | Documentation Parallel | What does that mean in documentation?|
 |----------------|-------------------------|-------------------------|
-
 |Character|The User|Understanding the audience, the reader of the documentation, is critical. That is what will guide the tone, structure, and even the examples in one's writing.|
-
 |Context|The System| Answers questions like what does this tool do? Or why does it exist? It helps the user orient themselves before they delve into the details.|
-
-|Conflict|The Problem|The user conflict we wish to address- a bug they can’t fix, that API call that won’t return what is expected, or a setup that keeps failing.
-
+|Conflict|The Problem|The user conflict we wish to address- a bug they can’t fix, that API call that won’t return what is expected, or a setup that keeps failing.|
 |Climax|The Resolution| It's the moment when the concept clicks. The example works, the integration is successful — the reader understands why the steps were taken.|
-
 |Closure|Reinforcement|Here we can summarize key takeaways, link the user to next steps to be done — basically transform passive reading into retained understanding.
 
 
